@@ -1,5 +1,4 @@
 ## 🎮 Projeto Jogo da Memória 🧠
-Desafio de projeto proposto pelo expert Felipe Aguiar da plataforma da DIO (Digital Innovation One). <br>
 O objetivo desse projeto é criar um Jogo da Memória utilizando HTML, CSS e JavaScript.
 
 ## 💻 Tecnologias usadas:
@@ -8,6 +7,8 @@ O objetivo desse projeto é criar um Jogo da Memória utilizando HTML, CSS e Jav
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
+Este código HTML é uma estrutura usada para exibir uma coleção de ícones estilizados com as tecnologias HTML5, CSS3 e JavaScript, 
+utilizando imagens geradas a partir do serviço Shields.io.
 
 ## 🖥 Preview do Jogo:
 Jogo em um Desktop:
