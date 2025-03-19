@@ -10,6 +10,10 @@ O objetivo desse projeto é criar um Jogo da Memória utilizando HTML, CSS e Jav
 Este código HTML é uma estrutura usada para exibir uma coleção de ícones estilizados com as tecnologias HTML5, CSS3 e JavaScript, 
 utilizando imagens geradas a partir do serviço Shields.io.
 
+As imagens geradas pelo Shields.io são conhecidas como badges (selos ou ícones) e são amplamente utilizadas em projetos de programação, especialmente em repositórios no GitHub, 
+para exibir informações de forma visual e organizada. Esses badges são gerados dinamicamente a partir de URLs e podem ser personalizados para mostrar dados relevantes sobre 
+o projeto ou ferramentas utilizadas.
+
 ## 🖥 Preview do Jogo:
 Jogo em um Desktop:
 <div>
