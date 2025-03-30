@@ -43,7 +43,3 @@ Jogo em um celular por exemplo:
 - Áudios de erros e acertos aplicados no jogo;
 - Utilizado Favicon.
 
-## 📌 Créditos
-- **Áudios:** Disponível no site [FreeSoundEffects.net
-](https://free-sound-effects.net/);
-- **Favicon:** Disponível no site [Flaticon](https://www.flaticon.com/br/icones-gratis/)
